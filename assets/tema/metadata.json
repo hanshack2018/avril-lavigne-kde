@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+    "Id": "Avril-Lavigne-Hanshack",
+    "Name": "Avril Lavigne — by Hanshack",
+    "Description": "Personalización de Hanshack basada en Sweet, con imágenes de Avril Lavigne.",
+    "Version": "0.1.0",
+    "Authors": [
+      {
+        "Name": "Hanshack"
+      },
+      {
+        "Name": "EliverLara",
+        "Website": "https://github.com/EliverLara/Sweet"
+      }
+    ],
+    "License": "CC-BY-SA-4.0 (base Sweet; imágenes con derechos independientes)"
+  }
+}
