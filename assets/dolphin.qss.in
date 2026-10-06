@@ -1,0 +1,16 @@
+
+DolphinViewContainer > DolphinView > QAbstractScrollArea {
+    background-color: transparent;
+    border-image: url("@MENU@") 0 0 0 0 stretch stretch;
+}
+
+/* Fondo de Lugares */
+KFilePlacesView {
+    background-color: #160000;
+    border-image: url("@LUGARES@") 0 0 0 0 stretch stretch;
+    color: white;
+}
+
+KFilePlacesView > QWidget#qt_scrollarea_viewport {
+    background-color: transparent;
+}

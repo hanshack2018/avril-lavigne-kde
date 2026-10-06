@@ -1,0 +1,8 @@
+Validación automatizada en directorios temporales, con comandos KDE simulados:
+PASS instalación nueva y eliminación
+PASS restauración de archivos preexistentes
+PASS rollback ante fallo de activación
+PASS modo solo estilo
+PASS conservación de cambios posteriores y del estilo elegido después
+PASS rechazo de Plasma diferente de 6.3.6 para el modo completo
+No se realizó validación visual en KDE.
